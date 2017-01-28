@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">KrnFall</string>
+
+
+    <string name="eng">English </string>
+    <string name="thai">ภาษาไทย </string>
+    <string name="botton1">รายการ </string>
+    <string name="botton2">แผนที่ </string>
+    <string name="botton7">List </string>
+    <string name="botton8">Map </string>
+    <string name="title_activity_page4">page4Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="list1">น้ำตกเอราวัณ </string>
+    <string name="txth1">Erawan Waterfall is located in the east side of the park in a convinient walk distance from HQ. Named after three-headed white elephant in Hindu mythology, Erawan Waterfall flowing with emerald water is the major attraction of the national park. It is 7 tiered and spans over 1.5 km, each tier has also number of smaller falls into ponds full of fishes. A series of trails and footbridged will lead visitors all way up to 6th tier, last tear is accessible by scrambling up to few cliffs for those who like a bit more challenge.
+
+Most tears are running into ponds, great for swimming. There are few picnic spots around the lower tiers, food is strickly forbidden beyond the second tier.</string>
+    <string name="txeng2">Erawan National Park is open for visitors 7 a.m. to 4:30 p.m everyday all year round. Although the official clouse time is 4:30 pm, rangers start cleaning from the top tier around 3 pm and asks visitors to leave as they slowly move down tier by tier. The lower tiers could be open up until 5 pm, depends on how quick/slow the daily cleaning goes. The park is generally very busy during the week-ends and public holidays. During the annual Songkran Festival 13-15 April, the waterfall tiers turns into a celebration place with water fights. It is not recommended to cary non-waterproof electronic equipments like sensitive cameras or mobile phones during the festivities.e
+    There are restaurants, various facilities, bungalows and a campsite next to the HQ. Bungalows are for 2-50 persons and the price varies from 800 THB to 4000 THB. The entrance fee is 300 THB for foreigners (children 200 THB), 100 THB for locals (children 50 THB), 20 THB for a motorbike and 30 THB for other vehicles. The park is easily accessible by public busses from Kanchanaburi, see our get there section for more info. It is possible to rent bicycles at visitor center area for 20 THB/day. Tents can be rent from 150 Baht a day for 2 people and 250 a day for 3 people, sleeping bag for 25 Baht, pillow for 10 Baht and sleeping mat for 20 Baht.</string>
+    <string name="tel1">โทรศัพท์ : 0 3457 4222, 0 3457 4234, 08 1914 8791 โทรสาร : 0 3457 4288 </string>
+    <string name="txth2">น้ำตกเอราวัณ เป็นน้ำตกที่ใหญ่และสวยงาม บนฝั่งแม่น้ำแควใหญ่ ตั้งอยู่ที่ อำเภอศรีสวัสดิ์ จังหวัดกาญจนบุรี เป็นน้ำตกที่มีระยะทาง ยาวประมาณ 1,500 เมตร ติดต่อกัน ซึ่งแบ่งออกเป็นชั้นๆ ได้ 7 ชั้นเป็นน้ำตกขนาดใหญ่เดิม มีชื่อว่า น้ำตกสะด่องม่องลาย ตามชื่อ ลำห้วยม่องล่ายซึ่งเป็นต้นน้ำของน้ำตกที่เกิดจากยอดเขา ตาม่องล่ายใน เทือกเขาสลอบ สายน้ำจะไหลมาตามชั้นหินเป็นระยะทาง ประมาณ 1,500 เมตร แบ่งออกเป็นชั้นใหญ่ๆได้ 7 ชั้น แต่ละชั้นมีีความสวยงามร่มรื่นไปด้วยแมกไม้นานาพันธุ์ ทั้งเถาวัลย์พันเกี่ยว ทอดตัวไปบนต้นไม้ใหญ่ กล้วยไม้ป่า หลายชนิดบนคาคาคบไม้ สายธารน้ำที่ไหลตกลดหลั่นลงมาบนโขดหินสู่แอ่งน้ำเบื้องล่าง เสียงสาดซ่า ความสวยงามน่าหลงใหลเป็นอย่างยิ่ง ต่อไปเป็นชั้น “ดงพฤกษา” ซึ่งอุดมไปด้วยแมกไม้ นานา พันธุ์แต่ดูไม่รกทึบส่วนชั้นสุดท้าย “ภูผาเอราวัณ” ที่ได้ชื่อเช่นนี้คงเนื่องมาจากว่าเมื่อน้ำตกไหล บ่าผ่านผา และชั้นหินบน ภูเขามองดูจากระยะไกลคล้ายกับ หัวช้าง เอราวัณซึ่งมี 3 หัว จึงเป็นที่มาของชื่อน้ำตกชั้นที่ 7 และเป็นชื่อของอุทยาน แห่งชาตินี้ด้วย </string>
+    <string name="txth3">น้ำตกเอราวัณ นับเป็นบรรยากาศที่เรียก เอาความมี คุณค่าของป่าเขาลำเนา ไพรซึมซับเข้าสู่อารมณ์ของผู้ใฝ่ความสันโดษ และรักธรรมชาติโดยแท้จริง ในชั้นที่ 7 อัน เป็นชั้นบนสุดของน้ำตกลักษณะของน้ำตกชั้นที่ 7 ลักษณะสายน้ำไหลบ่า มองดูคล้ายกับหัวช้างเอราวัณซึ่งมี 3 หัว จึงกลาย มาเป็นที่มาของชื่อน้ำตก จนคนทั่วไปรู้จักและขนานนามว่า “น้ำตกเอราวัณ” น้ำตกชั้นแรกมีชื่อว่า “ไหลคืนรัง” ชั้นที่ 2 ชื่อ “วังมัจฉา” ชั้นที่ 3 “ผาน้ำตก” ชั้นที่ 4 “อกผีเสื้อ” ชั้นที่ 5 “เบื่อไม่ลง” ชั้นที่ 6 “ดงพฤกษา” และชั้นสุดท้ายชื่อว่า “ภูผาเอราวัณ” โดยน้ำตกแต่ละชั้นไม่ใช่มีแค่ชื่อที่ไม่เหมือนกันเท่านั้น แต่น้ำตกแต่ละชั้นก็มีความ สวยงามที่แตกต่างกันออกไป ถ้าต้องการเยี่ยมชมน้ำตกทั้ง 7 ชั้นจาก ต้องใช้เวลาประมาณ 3 ชั่วโมงในการขึ้น-ลงชั้นนี้มีสีของน้ำมี 2 สีอย่างเห็นได้ชัด คือน้ำสีฟ้าเขียวและน้ำใสๆตามปกติ ซึ่งปลาพลวง ชอบจะอาศัยอยู่ในน้ำใสมากกว่า นอกจากนี้ที่น้ำตกชั้น 2 ยังมีความสวยงามของม่านน้ำตกที่เบื้องหลังสายน้ำตกที่ตกลงมากระเซ็นเป็น ฝอยนั้นมี ผาลึกเข้าไปเล็กน้อย โดยนักท่องเที่ยวสามารถเข้าไปหลังม่านน้ำตกนี้ได้ น้ำตกชั้นที่ 3 มีน้ำตกตกลงมาจากผาชันดังชื่อของน้ำตกชั้นนี้ว่า “ผาน้ำตก” จากนั้นก็เดินข้ามสะพาน</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="txt_searchth">ค้นหาน้ำตก... </string>
+    <string name="txt_feeth">ค่าบริการสำหรับบุคคล</string>
+    <string name="txt_null"></string>
+    <string name="txt_travelth">การเดินทาง</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_gps_fall">Map</string>
+
+
+</resources>
